@@ -9,5 +9,5 @@ print("\n"+str)
 str = "! test test !"
 print("\n"+str)
 
-str = "! comment bous tourner !"
+str = "! comment vvvous tourner !"
 print("\n"+str)
