@@ -13,5 +13,5 @@ str = "! comment test test tourner !"
 print("\n"+str)
 
 
-str = "! test 2 test 2 !"
+str = "! test 2222 test 2222 !"
 print("\n"+str)
