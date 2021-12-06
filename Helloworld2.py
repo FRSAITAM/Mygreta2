@@ -9,3 +9,5 @@ print("\n"+str)
 str = "! test test !"
 print("\n"+str)
 
+str = "! comment bous tourner !"
+print("\n"+str)
